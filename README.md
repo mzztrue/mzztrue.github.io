@@ -1,4 +1,15 @@
 # mzztrue.github.io
-<h1>my portflio website</h1>
 
-<h2>hello word</h2>
+# Status
+I am a undergraduate student.
+# Interests
+Reading.
+
+# Skills
+Web *
+C++ **
+Markdown ***
+
+# Role Models
+
+favorite writers: Guide, Salinger, Tolkien
