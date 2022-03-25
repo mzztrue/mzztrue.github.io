@@ -6,10 +6,5 @@ I am a undergraduate student.
 Reading.
 
 # Skills
-Web *
-C++ **
-Markdown ***
-
-# Role Models
-
-favorite writers: Guide, Salinger, Tolkien
+Web
+C++
