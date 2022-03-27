@@ -124,8 +124,6 @@ nav{
 
 /* welcome */
 .welcome-section{
-    background-color: ;
-    /* background-image: linear-gradient(royalblue,cornflowerblue); */
     /* background-image: linear-gradient(deepskyblue,dodgerblue,cornflowerblue); */
     background-color:dodgerblue;
     width: 100%;
@@ -140,7 +138,7 @@ nav{
     /* display: block;
     box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
     border-radius: 2px; */
-    color:dodgerblue;
+    color:royalblue;
     background-color:white;
 }
 
@@ -155,7 +153,7 @@ nav{
 .projects-section {
     text-align: center;
     padding: 10rem 2rem;
-    background-image:linear-gradient(royalblue,deepskyblue,dodgerblue);
+    background-image:linear-gradient(royalblue,cornflowerblue,dodgerblue);
 }
 
 
@@ -230,7 +228,6 @@ img {
 /* contacts */
 #contact-section{
     background-image: linear-gradient(dodgerblue,royalblue);
-    /* background-color: cornflowerblue; */
     display: flex;
     flex-direction: column;
     justify-content: center;
